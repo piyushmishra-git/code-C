@@ -10,7 +10,7 @@ int main()
     {
         for (int j = 0; j <=i; j++)
         {
-            printf("%c ", j+65);
+            printf("%c ", j+97);
         }
         printf("\n");            
     }
