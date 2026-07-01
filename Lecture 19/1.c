@@ -9,6 +9,7 @@ int main()
     {
         temp = a[i][0];
         a[i][0] = a[i][2];
+        
         a[i][2] =temp;
 
     }
